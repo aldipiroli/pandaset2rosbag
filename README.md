@@ -1,2 +1,2 @@
-# -PandaSet2RosBag
-Convert  PandaSet dataset to Rosbags
+# PandaSet 2 Rosbag
+Convert  [PandaSet dataset](https://scale.com/open-datasets/pandaset to Rosbags)
