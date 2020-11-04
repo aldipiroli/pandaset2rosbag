@@ -61,10 +61,10 @@ def main():
     #     annotations.append(ann)
 
     # Load Annotations: if you want to see all the classes
-    annotations = []
-    for seq in seqence.semseg:
-        ann = seq.to_numpy()
-        annotations.append(ann)
+    # annotations = []
+    # for seq in seqence.semseg:
+    #     ann = seq.to_numpy()
+    #     annotations.append(ann)
 
     # Loas scans:
     i = 0
