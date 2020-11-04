@@ -1,6 +1,9 @@
 # PandaSet 2 Rosbag
 Convert  [PandaSet dataset](https://scale.com/open-datasets/pandaset) to Rosbags with Python. Please refer to [pandaset-devkit](https://github.com/scaleapi/pandaset-devkit) for the official devkit.
 
+
+![Figure](img/img1.png)
+
 ## Dataset
 ### Download
 
@@ -76,7 +79,7 @@ Unpack the archive into any directory on your hard disk. The path will be refere
 5. Clone this repository `https://github.com/aldipiroli/PandaSet_2_Rosbag`
 
 ### Usage
-In `pandaset2rosbag.py`:
+In `PandaSet_2_Rosbag/pandaset2rosbag.py`:
 
 1. Set the scene number e.g. `bag_ID = 001` 
 2. Set the bag name and location `bag_name = /home/user/dataset/RosBags/ + str(bag_ID) + '.bag'`
