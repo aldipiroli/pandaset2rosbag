@@ -74,7 +74,6 @@ def main():
             dtype=np.float32).reshape(-1, 4)
 
         #full_data = np.hstack((data, annotations[i]))
-        # input()
 
         header = Header()
         header.frame_id = velo_frame_id
