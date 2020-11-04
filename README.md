@@ -2,7 +2,7 @@
 Convert  [PandaSet dataset](https://scale.com/open-datasets/pandaset) to Rosbags with Python. Please refer to [pandaset-devkit](https://github.com/scaleapi/pandaset-devkit) for the official devkit.
 
 
-![Figure](img/img1.png)
+![Figure](https://github.com/aldipiroli/PandaSet_2_Rosbag/blob/master/img/img1.png)
 
 ## Dataset
 ### Download
